@@ -30,7 +30,7 @@ For more information, click [here](https://docs.nvidia.com/metropolis/deepstream
 
 ## 3. Clone the repository
 ```bash
-git clone https://github.com/anu-shreya/person_direction_deepstream.git
+git@github.com:NBhargavparasad/person_direction_detection-.git
 cd person_direction_deepstream
 ```
 
@@ -46,4 +46,4 @@ II. Now, run the application by providing the video source path
 ```
 
 ## Please find the Link of a Demo video below
-[video](https://youtu.be/ocjtQP1Yi5E)
+[video](https://youtu.be/feqJ5exIASw)
